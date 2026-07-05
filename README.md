@@ -1,19 +1,22 @@
-## Getting Started
+# Flappy Bird
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um jogo inspirado no Flappy Bird desenvolvido em Java.
 
-## Folder Structure
+## Como baixar
 
-The workspace contains two folders by default, where:
+1. Clique na aba **Releases** deste repositório.
+2. Baixe o arquivo **FlappyBird.jar**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como executar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+É necessário ter o Java instalado no computador.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Depois de baixar o arquivo, execute:
 
-## Dependency Management
+```bash
+java -jar FlappyBird.jar
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# jogo-flappy-bird" 
+## Controles
+
+- Espaço → Faz o pássaro voar.
